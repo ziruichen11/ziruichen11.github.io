@@ -6,6 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: website_header_image_1.png
+  overlay_filter: 0.25
 ---
 
 ## About Me
