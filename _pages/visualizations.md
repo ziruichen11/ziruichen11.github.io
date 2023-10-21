@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /visualizations
 header:
-  image: /images/website_header_image.png
+  image: /assets/website_header_image.png
   #overlay_color: "#333"
 ---
 
