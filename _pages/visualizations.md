@@ -24,7 +24,7 @@ There have been many studies of cloud-crushing simulations in the literature to 
 
 How do we accelerate a "rock" that is a factor of 100,000 overdense to transonic velocities in a reasonable timescale to explain the abundance of molecular gas in the circumgalactic medium (CGM)? To learn about all the details, you will have to read our paper! But the short version of this story is encapsulated by the series of videos below.
 
-In all these videos, color indicates temperature, with purple being 1,000,000 Kelvin, orange and bright yellow being 5,000 to 10,000 Kelvin (atomic), and green and blue being 10 to 100 Kelvin (molecular). The first video is our fiducial simulation with an intermediate initial cloud size.
+In all these videos, color indicates temperature, with purple being 1,000,000 Kelvin, orange and bright yellow being 5,000 to 10,000 Kelvin (atomic), and green and blue being 10 to 100 Kelvin (molecular). This first video is our fiducial simulation with an intermediate initial cloud size.
 
 {% include video id="pZqVAaMsiyg" provider="youtube" %}
 
@@ -34,4 +34,7 @@ In the two videos below, we vary the initial cloud size by a factor of 3 around 
 
 {% include video id="v1_D_hp8Asw" provider="youtube" %}
 
-In this final video, 
+In this final video, we turn off photo-ionization (which allows the entire cloud to cool down to molecular temperatures) and modify the radiative cooling function in a way that removes the pile-up of gas at ~5,000 Kelvin as they cool. Yet the resilient cloud still manages to survive, just with a completely different morphology this time. Again, find out the reason behind all this in our paper!
+
+{% include video id="IfuU36T0YHg" provider="youtube" %}
+
