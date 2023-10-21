@@ -10,6 +10,8 @@ header:
   overlay_filter: 0.25
 ---
 
+Whether you are a layman or a fellow astrophysicist, if you find anything on this page interesting, please do not hesitate to reach out! I would love to discuss further with you!
+
 ## Entrainment of Molecular-Temperature Cloud in Galactic Winds
 
 The following series of videos show results from my cloud-crushing simulations. As a zeroth order approximation, you can think of these simulations as blowing wind to a piece of rock. Keep reading to find out why we would like to study this and what actually happens!
