@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /visualizations
 header:
-  overlay_image: website_header_image.png
-  overlay_filter: 0.75
+  overlay_image: website_header_image_1.png
+  overlay_filter: 0.25
 ---
 
 ## Entrainment of Molecular-Temperature Cloud in Galactic Winds
