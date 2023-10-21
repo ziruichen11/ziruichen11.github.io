@@ -12,7 +12,7 @@ header:
 
 ## Entrainment of Molecular-Temperature Cloud in Galactic Winds
 
-The following series of videos show results from my cloud-crushing simulations. As a zeroth order approximation, you can think of these simulations as blowing wind to a piece of rock. Read on for why we would like to study this and what actually happens.
+The following series of videos show results from my cloud-crushing simulations. As a zeroth order approximation, you can think of these simulations as blowing wind to a piece of rock. Keep reading to find out why we would like to study this and what actually happens!
 
 A cloud-crushing simulation consists of a cloud embedded in a background wind. By cloud, I simply mean a cold, overdense region that is in pressure equilibrium with the wind, which is at a higher temperature. Depending on the parameter choices, this simulation can be a good approximation to many terrestrial and astrophysical phenomena. (one example would be the motion of clouds in the Earth's atmosphere)
 
