@@ -12,7 +12,7 @@ header:
 
 Whether you are a layman or a fellow astrophysicist, if you find anything on this page interesting, please do not hesitate to reach out! I would love to discuss further with you!
 
-## Entrainment of Molecular-Temperature Cloud in Galactic Winds
+## The Survival and Entrainment of Molecules and Dust in Galactic Winds
 
 (Learn about all the details of this work in my paper, which can be found [here](https://arxiv.org/abs/2311.04275).)
 
