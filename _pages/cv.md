@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf version of my CV can be found [here](http://ziruichen11.github.io/files/ZiruiChenCV.pdf){:target="_blank"}, which was last updated on December 25, 2023.
+A pdf version of my CV can be found [here](http://ziruichen11.github.io/files/Zirui_Chen_CV.pdf){:target="_blank"}, which was last updated on January 7, 2024.
