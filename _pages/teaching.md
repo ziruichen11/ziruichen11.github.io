@@ -7,6 +7,4 @@ redirect_from:
   - /teaching
 ---
 
-## Teaching
-
 
