@@ -7,9 +7,15 @@ redirect_from:
   - /teaching
 ---
 
-"You do not really understand something unless you can explain it to your grandmother." -- Albert Einstein
-
 Over the last few years, I have taught and interacted with over 500 students in both lab and theory classes. All my teaching experiences have been extremely rewarding. I truly enjoy helping students learn and witnessing them develop into better physicists. I believe the best teachers should always be able to deconstruct complex concepts into simple terms and keep the audience engaged, and I strive to achieve that when I teach or give talks.
+
+## Courses I Have Taught
+
+UCSB
+Physics 6AL & 6BL: Experimental physics for biology/earth science majors and pre-med students. Taught lab sections on Newtonian mechanics, energy conservation (6AL) and simple harmonic motion, waves, and electricity & magnetism (6BL).
+Astro 1: Led weekly discussion sections on topics including solar and lunar eclipses, the solar system, formation of planetary systems, stellar structure and evolution, and galaxies
+Physics 4L: Electromagnetism and optics lab for engineering majors. Taught lab sections on topics including measurement of electron charge to mass ratio, AC circuits, and lenses.
+
 
 ## Excerpts from Anonymous Teaching Evaulations I Received
 
