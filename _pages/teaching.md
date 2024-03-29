@@ -11,10 +11,16 @@ Over the last few years, I have taught and interacted with over 500 students in 
 
 ## Courses I Have Taught
 
-UCSB
+# UCSB
+
 Physics 6AL & 6BL: Experimental physics for biology/earth science majors and pre-med students. Taught lab sections on Newtonian mechanics, energy conservation (6AL) and simple harmonic motion, waves, and electricity & magnetism (6BL).
+
 Astro 1: Led weekly discussion sections on topics including solar and lunar eclipses, the solar system, formation of planetary systems, stellar structure and evolution, and galaxies
+
 Physics 4L: Electromagnetism and optics lab for engineering majors. Taught lab sections on topics including measurement of electron charge to mass ratio, AC circuits, and lenses.
+
+# Columbia
+Grader for Physics UN2802 (accelerated introductory sequence for physics majors) and ASTR2001 & 2002 (introductory sequence for astronomy and astrophysics majors).
 
 
 ## Excerpts from Anonymous Teaching Evaulations I Received
