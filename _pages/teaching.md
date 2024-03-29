@@ -9,7 +9,7 @@ redirect_from:
 
 Over the last few years, I have taught and interacted with over 500 students in both lab and theory classes. All my teaching experiences have been extremely rewarding. I truly enjoy helping students learn and witnessing them develop into better physicists. I believe the best teachers should always be able to deconstruct complex concepts into simple terms and keep the audience engaged, and I strive to achieve that when I teach or give talks.
 
-## Excerpts from Anonymous Teaching Evaulations I Received
+# Excerpts from Anonymous Teaching Evaulations I Received
 
 "Easily the best TA I have had in any of my lab courses. Great at communicating with us clearly and helping when we get confused."
 
@@ -21,9 +21,9 @@ Over the last few years, I have taught and interacted with over 500 students in 
 
 "He was super nice and always made time to answer my questions. Super easy to talk to and always smiled at section."
 
-## Courses I Have Taught
+# Courses I Have Taught
 
-# UCSB
+## UCSB
 
 Physics 6AL & 6BL: Experimental physics for biology/earth science majors and pre-med students. Taught lab sections on Newtonian mechanics, energy conservation (6AL) and simple harmonic motion, waves, and electricity & magnetism (6BL).
 
@@ -31,5 +31,5 @@ Astro 1: Led weekly discussion sections on topics including solar and lunar ecli
 
 Physics 4L: Electromagnetism and optics lab for engineering majors. Taught lab sections on topics including measurement of electron charge to mass ratio, AC circuits, and lenses.
 
-# Columbia
+## Columbia
 Grader for Physics UN2802 (accelerated introductory sequence for physics majors) and ASTR2001 & 2002 (introductory sequence for astronomy and astrophysics majors).
