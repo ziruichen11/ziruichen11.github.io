@@ -4,8 +4,8 @@ collection: publications
 permalink:
 excerpt:
 date: 2023-11-07
-venue: 'arXiv'
-paperurl: https://arxiv.org/abs/2311.04275
+venue: 'MNRAS'
+paperurl: https://academic.oup.com/mnras/article/530/4/4032/7659386
 #citation: 'Chen Z., Oh S. P. 2023'
 ---
 **Chen Z.**, Oh S. P.
