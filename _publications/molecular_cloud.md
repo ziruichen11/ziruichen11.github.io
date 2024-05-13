@@ -3,7 +3,7 @@ title: "The Survival and Entrainment of Molecules and Dust in Galactic Winds"
 collection: publications
 permalink:
 excerpt:
-date: 2023-11-07
+date: 2024-04-27
 venue: 'MNRAS'
 paperurl: https://academic.oup.com/mnras/article/530/4/4032/7659386
 #citation: 'Chen Z., Oh S. P. 2023'
