@@ -15,8 +15,7 @@ header:
 
 Hi! My name is Zirui. I am interested in theoretical and computational astrophysics. 
 
-My CV can be found [here](http://ziruichen11.github.io/files/Zirui_Chen_CV.pdf){:target="_blank"}, which was last updated on September 21, 2025. Additionally, you can find a list of my publications [here](https://ziruichen11.github.io/publications/), on NASA ADS, in my Orcid profile, or in my Google Scholar profile.
-
+My CV can be found [here](http://ziruichen11.github.io/files/Zirui_Chen_CV.pdf){:target="_blank"}, which was last updated on September 21, 2025. Additionally, you can find a list of my publications [here](https://ziruichen11.github.io/publications/), on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/Gkps_p2XRPiWtP93Oaob4w), in my Orcid profile, or in my Google Scholar profile.
 
 I earned my undergraduate degrees in Physics and Astronomy at [Columbia University](https://www.columbia.edu/), where I was a [John Jay Scholar](https://www.college.columbia.edu/alumni/jj-scholars-program), a [Junior Phi Beta Kappa](https://www.pbk.org/), and graduated with latin honors (Summa Cum Laude) and departmental honors. During my undergrad, I had the pleasure to work with [Greg Bryan](http://user.astro.columbia.edu/~gbryan/Site/home.html) (Columbia) and [Drummond Fielding](https://dfielding14.github.io/) ([CCA](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/)) on developing analytic models for turbulent radiative mixing layers in galaxies, and with [David Kipping](http://user.astro.columbia.edu/~dkipping/index.html) (Columbia) at the [Cool Worlds Lab](https://www.coolworldslab.com/) on transit patterns of circumbinary planets. 
 
