@@ -5,7 +5,7 @@ permalink:
 excerpt:
 date: 2026-03-27
 venue: 'MNRAS'
-paperurl: https://arxiv.org/abs/2510.02443
+paperurl: https://academic.oup.com/mnras/article/548/3/stag617/8664320
 #citation: 'Chen Z., Peng Z. et al. 2026'
 ---
 **Chen Z.**, Peng Z. et al.
